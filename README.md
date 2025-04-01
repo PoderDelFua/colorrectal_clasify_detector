@@ -1,4 +1,4 @@
-# 🧠 Colorectal Classify Detector
+# Colorectal Classify Detector
 
 Repositorio oficial del Trabajo de Fin de Grado (TFG): **Detección y Clasificación de Pólipos Colorrectales** mediante una arquitectura en dos etapas combinando YOLOv8 y VGG19.
 
